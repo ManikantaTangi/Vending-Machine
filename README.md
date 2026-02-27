@@ -55,19 +55,10 @@ The FSM ensures correct state transitions for every transaction scenario.
 
 ## 📂 Project Structure
 vending-machine-verilog/
-│
-├── src/
 │ └── vending_machine.v
-│
-├── tb/
 │ └── vending_machine_tb.v
-│
-├── simulation/
 │ └── waveform.png
-│
-├── docs/
 │ └── report.pdf
-│
 └── README.md
 
 ---
