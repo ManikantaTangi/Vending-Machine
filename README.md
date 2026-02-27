@@ -58,7 +58,6 @@ vending-machine-verilog/
 │ └── vending_machine.v
 │ └── vending_machine_tb.v
 │ └── waveform.png
-│ └── report.pdf
 └── README.md
 
 ---
